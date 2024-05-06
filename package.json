@@ -24,7 +24,7 @@
   "license": "DBAD",
   "resolutions": {
     "browserify/assert": "^2.0.0",
-    "tap-summary/tap-out/trim": "^0.0.3"
+    "tap-summary/tap-out/trim": "^1.0.0"
   },
   "dependencies": {
     "fastest-levenshtein": "^1.0.16"
